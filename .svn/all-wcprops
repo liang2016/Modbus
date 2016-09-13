@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/modbus/!svn/ver/2/Modbus4J
+END
+modbus4J.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/modbus/!svn/ver/2/Modbus4J/modbus4J.jar
+END
+modbus4J-doc.zip
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/modbus/!svn/ver/1/Modbus4J/modbus4J-doc.zip
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/modbus/!svn/ver/1/Modbus4J/.cvsignore
+END
+modbus4J-cdc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/modbus/!svn/ver/1/Modbus4J/modbus4J-cdc.jar
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/modbus/!svn/ver/1/Modbus4J/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/modbus/!svn/ver/1/Modbus4J/.project
+END
+build-cdc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/modbus/!svn/ver/1/Modbus4J/build-cdc.xml
+END
+modbus4J-src.zip
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/modbus/!svn/ver/1/Modbus4J/modbus4J-src.zip
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/modbus/!svn/ver/1/Modbus4J/.classpath
+END

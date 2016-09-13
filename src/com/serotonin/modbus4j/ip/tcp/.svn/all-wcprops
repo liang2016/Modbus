@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/tcp
+END
+TcpSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/tcp/TcpSlave.java
+END
+TcpMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/tcp/TcpMaster.java
+END

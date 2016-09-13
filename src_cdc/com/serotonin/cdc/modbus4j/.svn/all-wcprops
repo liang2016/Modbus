@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j
+END
+ModbusMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ModbusMaster.java
+END
+BatchRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/BatchRead.java
+END
+ProcessImageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ProcessImageListener.java
+END
+Modbus.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/Modbus.java
+END
+BatchResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/BatchResults.java
+END
+ModbusFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ModbusFactory.java
+END
+ProcessImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ProcessImage.java
+END
+ExceptionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ExceptionResult.java
+END
+BasicProcessImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/BasicProcessImage.java
+END
+ModbusSlaveSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ModbusSlaveSet.java
+END
+NodeScanListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/NodeScanListener.java
+END

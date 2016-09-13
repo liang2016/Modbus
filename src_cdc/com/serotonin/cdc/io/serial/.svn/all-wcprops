@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/io/serial
+END
+SerialParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/io/serial/SerialParameters.java
+END
+SerialUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/io/serial/SerialUtils.java
+END
+SerialPortException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/io/serial/SerialPortException.java
+END

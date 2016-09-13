@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/util
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/util/StringUtils.java
+END
+ProgressiveTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/util/ProgressiveTask.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/util/ArrayUtils.java
+END
+ProgressiveTaskListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/util/ProgressiveTaskListener.java
+END

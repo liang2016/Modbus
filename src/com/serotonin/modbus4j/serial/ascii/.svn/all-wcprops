@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii
+END
+AsciiRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii/AsciiRequestHandler.java
+END
+AsciiMessageRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii/AsciiMessageRequest.java
+END
+AsciiMessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii/AsciiMessageResponse.java
+END
+AsciiSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii/AsciiSlave.java
+END
+AsciiMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii/AsciiMessage.java
+END
+AsciiMessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii/AsciiMessageParser.java
+END
+AsciiMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/serial/ascii/AsciiMaster.java
+END

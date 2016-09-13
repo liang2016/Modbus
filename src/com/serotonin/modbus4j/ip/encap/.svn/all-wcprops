@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/ip/encap
+END
+EncapMessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/ip/encap/EncapMessageResponse.java
+END
+EncapMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/encap/EncapMessage.java
+END
+EncapMessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/encap/EncapMessageParser.java
+END
+EncapWaitingRoomKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/encap/EncapWaitingRoomKeyFactory.java
+END
+EncapRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/encap/EncapRequestHandler.java
+END
+EncapMessageRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/encap/EncapMessageRequest.java
+END

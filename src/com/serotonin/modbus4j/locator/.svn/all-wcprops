@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/locator
+END
+NumericLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/locator/NumericLocator.java
+END
+BinaryLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/locator/BinaryLocator.java
+END
+StringLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/locator/StringLocator.java
+END
+BaseLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/locator/BaseLocator.java
+END

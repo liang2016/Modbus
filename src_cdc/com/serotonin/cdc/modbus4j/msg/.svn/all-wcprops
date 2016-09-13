@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg
+END
+ExceptionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ExceptionResponse.java
+END
+WriteCoilResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteCoilResponse.java
+END
+ReadCoilsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadCoilsResponse.java
+END
+WriteMaskRegisterResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteMaskRegisterResponse.java
+END
+WriteRegisterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteRegisterRequest.java
+END
+ReadExceptionStatusResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadExceptionStatusResponse.java
+END
+ReadHoldingRegistersRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadHoldingRegistersRequest.java
+END
+WriteCoilsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteCoilsRequest.java
+END
+ModbusMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ModbusMessage.java
+END
+WriteCoilsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteCoilsResponse.java
+END
+ReadExceptionStatusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadExceptionStatusRequest.java
+END
+ReadHoldingRegistersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadHoldingRegistersResponse.java
+END
+WriteRegisterResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteRegisterResponse.java
+END
+WriteCoilRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteCoilRequest.java
+END
+ReadCoilsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadCoilsRequest.java
+END
+WriteMaskRegisterRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteMaskRegisterRequest.java
+END
+ExceptionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ExceptionRequest.java
+END
+ReportSlaveIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReportSlaveIdResponse.java
+END
+ModbusResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ModbusResponse.java
+END
+WriteRegistersRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteRegistersRequest.java
+END
+ReadInputRegistersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadInputRegistersResponse.java
+END
+ReadDiscreteInputsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadDiscreteInputsResponse.java
+END
+ReadNumericRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadNumericRequest.java
+END
+ReadBinaryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadBinaryRequest.java
+END
+ReadDiscreteInputsRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadDiscreteInputsRequest.java
+END
+ReadResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadResponse.java
+END
+ReadInputRegistersRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReadInputRegistersRequest.java
+END
+WriteRegistersResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/WriteRegistersResponse.java
+END
+ModbusRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ModbusRequest.java
+END
+ReportSlaveIdRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/msg/ReportSlaveIdRequest.java
+END

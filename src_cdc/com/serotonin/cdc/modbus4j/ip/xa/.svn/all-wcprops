@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ip/xa
+END
+XaMessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ip/xa/XaMessageResponse.java
+END
+XaMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ip/xa/XaMessage.java
+END
+XaMessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ip/xa/XaMessageParser.java
+END
+XaWaitingRoomKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ip/xa/XaWaitingRoomKeyFactory.java
+END
+XaRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ip/xa/XaRequestHandler.java
+END
+XaMessageRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/ip/xa/XaMessageRequest.java
+END

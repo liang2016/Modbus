@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc
+END
+NotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/NotImplementedException.java
+END
+ShouldNeverHappenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/ShouldNeverHappenException.java
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging
+END
+TimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/TimeoutException.java
+END
+StreamTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/StreamTransport.java
+END
+Transport.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/Transport.java
+END
+WaitingRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/WaitingRoom.java
+END
+WaitingRoomException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/WaitingRoomException.java
+END
+MessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/MessageParser.java
+END
+OutgoingRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/OutgoingRequestMessage.java
+END
+IncomingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/IncomingMessage.java
+END
+DataConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/DataConsumer.java
+END
+IncomingResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/IncomingResponseMessage.java
+END
+MessagingExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/MessagingExceptionHandler.java
+END
+DefaultMessagingExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/DefaultMessagingExceptionHandler.java
+END
+IncomingRequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/IncomingRequestMessage.java
+END
+InputStreamListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/InputStreamListener.java
+END
+TestableTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/TestableTransport.java
+END
+OutgoingMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/OutgoingMessage.java
+END
+RequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/RequestHandler.java
+END
+OutgoingResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/OutgoingResponseMessage.java
+END
+WaitingRoomKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/WaitingRoomKey.java
+END
+MessageControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/MessageControl.java
+END
+WaitingRoomKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/messaging/WaitingRoomKeyFactory.java
+END

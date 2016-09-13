@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu
+END
+RtuRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu/RtuRequestHandler.java
+END
+RtuMessageRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu/RtuMessageRequest.java
+END
+RtuMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu/RtuMaster.java
+END
+RtuMessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu/RtuMessageResponse.java
+END
+RtuMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu/RtuMessage.java
+END
+RtuSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu/RtuSlave.java
+END
+RtuMessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/serial/rtu/RtuMessageParser.java
+END

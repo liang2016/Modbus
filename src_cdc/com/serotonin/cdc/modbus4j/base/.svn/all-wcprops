@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base
+END
+RangeAndOffset.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/RangeAndOffset.java
+END
+SlaveAndRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/SlaveAndRange.java
+END
+BaseRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/BaseRequestHandler.java
+END
+KeyedModbusLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/KeyedModbusLocator.java
+END
+BaseMessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/BaseMessageParser.java
+END
+ModbusUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/ModbusUtils.java
+END
+SlaveProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/SlaveProfile.java
+END
+ReadFunctionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/base/ReadFunctionGroup.java
+END

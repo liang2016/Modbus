@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/code
+END
+ExceptionCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/code/ExceptionCode.java
+END
+RegisterRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/code/RegisterRange.java
+END
+FunctionCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/code/FunctionCode.java
+END
+DataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/code/DataType.java
+END

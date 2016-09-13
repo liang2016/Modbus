@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/modbus/!svn/ver/2/Modbus4J/src_test/com/serotonin/modbus4j/test
+END
+Test2.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modbus/!svn/ver/2/Modbus4J/src_test/com/serotonin/modbus4j/test/Test2.java
+END
+AsciiDecodingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/modbus/!svn/ver/1/Modbus4J/src_test/com/serotonin/modbus4j/test/AsciiDecodingTest.java
+END
+MasterTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/modbus/!svn/ver/2/Modbus4J/src_test/com/serotonin/modbus4j/test/MasterTest2.java
+END
+DecodingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modbus/!svn/ver/2/Modbus4J/src_test/com/serotonin/modbus4j/test/DecodingTest.java
+END
+BatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/modbus/!svn/ver/1/Modbus4J/src_test/com/serotonin/modbus4j/test/BatchTest.java
+END
+ListenerTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/modbus/!svn/ver/1/Modbus4J/src_test/com/serotonin/modbus4j/test/ListenerTest2.java
+END
+MaxRegisterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/modbus/!svn/ver/1/Modbus4J/src_test/com/serotonin/modbus4j/test/MaxRegisterTest.java
+END
+ReadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/modbus/!svn/ver/2/Modbus4J/src_test/com/serotonin/modbus4j/test/ReadTest.java
+END
+ListenerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/modbus/!svn/ver/1/Modbus4J/src_test/com/serotonin/modbus4j/test/ListenerTest.java
+END
+MasterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/1/Modbus4J/src_test/com/serotonin/modbus4j/test/MasterTest.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/modbus/!svn/ver/1/Modbus4J/src_test/com/serotonin/modbus4j/test/Test.java
+END
+SendAndRec.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/2/Modbus4J/src_test/com/serotonin/modbus4j/test/SendAndRec.java
+END

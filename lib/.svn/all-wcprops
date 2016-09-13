@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/modbus/!svn/ver/1/Modbus4J/lib
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/modbus/!svn/ver/1/Modbus4J/lib/commons-logging-1.0.4.jar
+END
+RXTXcomm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/modbus/!svn/ver/1/Modbus4J/lib/RXTXcomm.jar
+END
+commons-lang3-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/modbus/!svn/ver/1/Modbus4J/lib/commons-lang3-3.0.jar
+END
+serotonin-timer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/modbus/!svn/ver/1/Modbus4J/lib/serotonin-timer.jar
+END
+seroUtils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/modbus/!svn/ver/1/Modbus4J/lib/seroUtils.jar
+END

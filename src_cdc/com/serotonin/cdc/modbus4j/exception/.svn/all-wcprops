@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception
+END
+IllegalDataAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/IllegalDataAddressException.java
+END
+InvalidDataConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/InvalidDataConversionException.java
+END
+ModbusIdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/ModbusIdException.java
+END
+ErrorResponseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/ErrorResponseException.java
+END
+IllegalDataTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/IllegalDataTypeException.java
+END
+ModbusTransportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/ModbusTransportException.java
+END
+IllegalSlaveIdException.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/IllegalSlaveIdException.java
+END
+ModbusInitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/ModbusInitException.java
+END
+IllegalFunctionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/modbus/!svn/ver/1/Modbus4J/src_cdc/com/serotonin/cdc/modbus4j/exception/IllegalFunctionException.java
+END

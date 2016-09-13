@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/modbus/!svn/ver/2/Modbus4J/src/com/serotonin/modbus4j/ip
+END
+IpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/IpMessage.java
+END
+IpMessageResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/IpMessageResponse.java
+END
+IpParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/modbus/!svn/ver/1/Modbus4J/src/com/serotonin/modbus4j/ip/IpParameters.java
+END
